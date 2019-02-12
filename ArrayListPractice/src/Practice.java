@@ -21,7 +21,7 @@ public class Practice {
 		
 		for(Integer num : myList) {
 			System.out.println(num);
-			myList.remove(1);
+			
 
 		}
 		
